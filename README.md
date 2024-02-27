@@ -14,6 +14,10 @@ Voici la liste des différents fichiers proposés dans ATARIST-TOOLS :
 			<td><b>DIRST.PAS</b></td>
 			<td>Cette commande permet d'afficher la liste des fichiers d'image disque «.ST» du <a href="https://www.gladir.com/LEXIQUE/COMPUTER/atarist.htm">Atari ST</a>.</td>
 		</tr>  
+		<tr>
+			<td><b>ST2UNI.PAS</b></td>
+			<td>Cette commande permet de convertir un texte de format Atari ST en texte Unicode.</td>
+		</tr>
 </table>  
 
 <h2>Compilation</h2>
