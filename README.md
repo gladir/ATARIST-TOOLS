@@ -11,9 +11,21 @@ Voici la liste des différents fichiers proposés dans ATARIST-TOOLS :
 			<th>Description</th>	
 		</tr>
 		<tr>
+			<td><b>AS68.PAS</b></td>
+			<td>Cette commande permet de lancer un clone de l'assembleur Digital Research 68000.</td>
+		</tr>
+		<tr>
 			<td><b>DIRST.PAS</b></td>
 			<td>Cette commande permet d'afficher la liste des fichiers d'image disque «.ST» du <a href="https://www.gladir.com/LEXIQUE/COMPUTER/atarist.htm">Atari ST</a>.</td>
 		</tr>  
+		<tr>
+			<td><b>LINK68.PAS</b></td>
+			<td>Cette commande permet de lancer un clone du linker Digital Research/Alcyon pour Atari ST.</td>
+		</tr>
+		<tr>
+			<td><b>RELMOD.PAS</b></td>
+			<td>Cette commande permet de lancer le convertisseur DRI CP/M-68K vers GEMDOS.</td>
+		</tr>
 		<tr>
 			<td><b>ST2UNI.PAS</b></td>
 			<td>Cette commande permet de convertir un texte de format Atari ST en texte Unicode.</td>
